@@ -7,9 +7,9 @@
 
 Shri Ganesh Chandra Pant, IG Retd
 
-Shri Adv Pavan Poddar
+Adv Shri Pavan Poddar
 
-Shri Yogacharya Krishna Mishra 
+Yogacharya Shri Krishna Mishra 
 
 Shri Devendra Bahuguna 
 
