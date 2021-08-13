@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NehalSinghal/aserasd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# ASERASD
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Minutes of 2021-08-01
 
-### Markdown
+### Members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shri Ganesh Chandra Pant, IG Retd
 
-```markdown
-Syntax highlighted code block
+Shri Adv Pavan Poddar
 
-# Header 1
-## Header 2
-### Header 3
+Shri Yogacharya Krishna Mishra 
 
-- Bulleted
-- List
+Shri Devendra Bahuguna 
 
-1. Numbered
-2. List
+Shri Durgesh Nautiyal
 
-**Bold** and _Italic_ and `Code` text
+Shri Vinay Bijalwan
 
-[Link](url) and ![Image](src)
-```
+Mrs Vineeta Bijalwan
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Ms Nehal Singhal
 
-### Jekyll Themes
+### Actionable practical requirements
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NehalSinghal/aserasd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+No political interest or involvement
 
-### Support or Contact
+Neutral
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Research
+
+#### YouTube channel
+
+In simple language for people
+
+Bhagavat stories
+
+Stories of Gurukuls
+
+Interviews of unsung heroes
+
+All are scientists in era of Rigveda, Yajurveda, Saam Veda, Atharva Veda, Yagya
+
+
+#### Website
+For NGO
+
+Farmers
+
+Knowledge Tradition
+
+Social Actionable Work
+
+Copyright (digital library)
+
+Ayurveda Products
+
+Online classes - Software, Coding, Membership
+
+#### Eco tourism
+
+10-10 days trip to Garhwal-Kumaon
+
+#### Database of digitised books
+
+Ayurveda books
+
+#### Company Formation
+
+At a later stage
+
+Large scale
+
+Commercial
+
+
+### Economic Model
+
+NGO Self Sustainable
+
+Starting by Shri Ganesh Chandra Pant, IG Retd
+
+Earning for people joining it. 
+
+
